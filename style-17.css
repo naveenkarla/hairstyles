@@ -1,0 +1,233 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+img{
+	max-width: 100%;
+	height: auto;
+}
+
+
+
+/*<!-----------logo-section-------------------->*/
+
+.logo-section{
+
+	background-color: black;
+	height: 162px;
+}
+.loggo{
+
+}
+.loggo img{
+
+	height: 160px;
+	margin-left: 60px;
+	border-radius: 90px;
+}
+.navs{
+
+}
+.navs nav{
+
+	margin-top: 54px;
+	margin-left: -95px;
+}
+.navs nav a{
+	
+	margin-left: 38px;
+	font-size: 18px;
+	text-transform: uppercase;
+	color: #fff;
+	border-radius: 12px;
+	text-decoration: none;
+	font-family: 'Tapestry', cursive;
+}
+.navs nav a:hover{
+	border: 1px solid white;
+	padding: 4px 27px;
+	background-color: red;
+}
+
+
+
+
+/*<!---------------banner-section----------->
+*/
+.banner-section{
+	background: url(images/banner.jpg) no-repeat;
+	background-position: right;
+	background-size: cover;
+	height: 500px;
+}
+.banneer{
+
+}
+.banneer h1{
+
+	margin-left: 77px;
+	margin-top: 252px;
+	text-transform: capitalize;
+	font-size: 54px;
+}
+.banneer-1{
+
+}
+.banneer-1 p{
+
+	margin-left: 78px;
+	text-transform: capitalize;
+	font-size: 24px;
+	margin-top: -21px;
+}
+
+
+
+
+/*<!---------------image-section----------->*/
+
+.image-section{
+
+	background-color: antiquewhite;
+}
+.image{
+
+}
+.image img{
+
+	width: 90%;
+	margin-top: 71px;
+}
+.image h1{
+
+	text-align: center;
+	text-transform: capitalize;
+	font-size: 31px;
+	color: brown;
+	margin-right: 54px;
+	font-family: 'Tapestry', cursive;
+}
+
+
+
+
+/*<!---------------footer-section----------->
+*/
+.footer-section{
+
+}
+.footter{
+
+}
+.footter h1{
+
+	text-transform: capitalize;
+	margin-top: 43px;
+}
+.footter ul{
+
+	list-style: none;
+	line-height: 31px;
+	color: brown;
+	text-transform: capitalize;
+	font-family: 'Tapestry', cursive;
+	margin-top: 22px;
+}
+.footter ul li{
+
+}
+
+/*----------------------------------------*/
+.foott{
+
+}
+.foott h1{
+
+	text-transform: capitalize;
+	margin-top: 43px;
+}
+.foott ul{
+
+	color: brown;
+	line-height: 32px;
+	list-style: none;
+	font-family: 'Tapestry', cursive;
+	margin-top: 21px;
+}
+.foott ul li{
+
+}
+/*-------------------------------------------*/
+.signup{
+
+}
+.signup h1{
+
+	text-transform: capitalize;
+	margin-top: 43px;
+	margin-left: 47px;
+}
+.signup input{
+
+	margin-left: 50px;
+	margin-top: 11px;
+	width: 85%;
+	padding: 4px 17px;
+	font-family: 'Tapestry', cursive;
+	text-transform: capitalize;
+	color: brown;
+}
+.signup button{
+    border: none;
+	margin-left: 49px;
+	margin-top: 14px;
+	color: blue;
+	text-transform: capitalize;	
+	font-family: 'Tapestry', cursive;
+}
+.signup button:hover{
+	border: 1px solid black;
+	border-radius: 8px;
+	background-color: orange;
+	padding: 7px 21px;
+}
+
+
+
+
+/*<!---------------copyright-section----------->
+*/
+.copyright-section{
+
+	background-color: black;
+}
+.copy{
+
+}
+.copy p{
+
+	margin-top: 34px;
+	text-transform: capitalize;
+	font-size: 16px;
+	font-family: 'Tapestry', cursive;
+	color: #fff;
+}
+.right{
+
+}
+.right nav{
+
+	margin-left: 212px;
+	margin-top: 22px;
+}
+.right nav a{
+
+	margin-left: 6px;
+}
+.right nav a img{
+	
+}
+
+
+
+/*--------program-completed--------------------------*/
